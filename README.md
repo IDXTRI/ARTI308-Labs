@@ -8,17 +8,17 @@ ARTI 308: Machine Learning Portfolio
 
 ---
 
-## 📂 Laboratory Submissions
+##  Laboratory Submissions
 
 | Lab | Description | Status |
 | :--- | :--- | :--- |
-| **[Lab 1](./Lab1)** | Environment Setup | ✅ Completed |
-| **[Lab 2](./Lab2)** | Problem Formulation & Data Collection | ✅ Completed |
-| **Lab 3** | *Data Preprocessing (Coming Soon)* | ⏳ Pending |
+| **[Lab 1](./Lab1)** | Environment Setup |  Completed |
+| **[Lab 2](./Lab2)** | Problem Formulation & Data Collection |  Completed |
+| **Lab 3** | *Data Preprocessing (Coming Soon)* | Pending |
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 * **Language:** Python 3.12+
 * **IDE:** Visual Studio Code / Jupyter Notebook
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
