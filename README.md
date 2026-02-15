@@ -14,7 +14,7 @@ ARTI 308: Machine Learning Portfolio
 | :--- | :--- | :--- |
 | **[Lab 1](./Lab1)** | Environment Setup |  Completed |
 | **[Lab 2](./Lab2)** | Problem Formulation & Data Collection |  Completed |
-| **Lab 3** | *Data Preprocessing (Coming Soon)* | Pending |
+| **[Lab 3](./Lab3)** | Exploratory Data Analysis | Completed |
 
 ---
 
