@@ -8,17 +8,18 @@ ARTI 308: Machine Learning Portfolio
 
 ---
 
-##  Laboratory Submissions
+## Laboratory Submissions
 
 | Lab | Description | Status |
 | :--- | :--- | :--- |
-| **[Lab 1](./Lab1)** | Environment Setup |  Completed |
-| **[Lab 2](./Lab2)** | Problem Formulation & Data Collection |  Completed |
-| **[Lab 3](./Lab3)** | Exploratory Data Analysis | Completed |
+| **[Lab 1](./Lab1)** | Environment Setup (Anaconda & VS Code) | Completed |
+| **[Lab 2](./Lab2)** | Problem Formulation & Data Collection | Completed |
+| **[Lab 3](./Lab3)** | Exploratory Data Analysis (EDA) | Completed |
+| **[Lab 4](./Lab4)** | Data Quality Assessment & Preprocessing | Completed |
 
 ---
 
-##  Tools Used
+## Tools Used
 * **Language:** Python 3.12+
 * **IDE:** Visual Studio Code / Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
