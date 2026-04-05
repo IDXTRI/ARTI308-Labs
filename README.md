@@ -17,7 +17,7 @@ ARTI 308: Machine Learning Portfolio
 | **[Lab 3](./Lab3)** | Exploratory Data Analysis (EDA) | Completed |
 | **[Lab 4](./Lab4)** | Data Quality Assessment & Preprocessing | Completed |
 | **[Lab 5](./Lab5)** | Feature Engineering | Completed |
-
+| **[Lab 6](./Lab6)** | Linear Regression: Ecommerce Customer Spending | Completed |
 ---
 
 ## Tools Used
