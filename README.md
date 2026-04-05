@@ -16,6 +16,7 @@ ARTI 308: Machine Learning Portfolio
 | **[Lab 2](./Lab2)** | Problem Formulation & Data Collection | Completed |
 | **[Lab 3](./Lab3)** | Exploratory Data Analysis (EDA) | Completed |
 | **[Lab 4](./Lab4)** | Data Quality Assessment & Preprocessing | Completed |
+| **[Lab 5](./Lab5)** | Feature Engineering | Completed |
 
 ---
 
